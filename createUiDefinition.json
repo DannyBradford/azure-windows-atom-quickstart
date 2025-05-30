@@ -79,7 +79,7 @@
                         "imageReference": {
                             "publisher": "MicrosoftWindowsServer",
                             "offer": "WindowsServer",
-                            "sku": "2025-datacenter-azure-edition"
+                            "sku": "windows-server-2025-datacenter"
                         },
                         "count": "1"
                     }
